@@ -41,3 +41,6 @@
 
 ## ATIVAR PRE-COMMIT 
 `pre-commit install`
+
+## ATUALIZAR REV PRE-COMMIT
+`pre-commit autoupdate`
