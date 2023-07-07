@@ -28,7 +28,7 @@
 `pip install flake8`
 
 ## CRIAR ARQUIVO DE CONFIGURAÇÃO FLAKE8
-.flake8
+`touch .flake8`
 
 ## INSTALAR PYTEST
 `pip install pytest`
@@ -37,7 +37,7 @@
 `pip install pre-commit`
 
 ## ARQUIVO DE CONFIGURAÇÃO PRE-COMMIT 
-.pre-commit-config.yaml
+`touch .pre-commit-config.yaml`
 
 ## ATIVAR PRE-COMMIT 
 `pre-commit install`
